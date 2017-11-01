@@ -5,4 +5,11 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	counter
 
+} {} {}} C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v {1 {vlog -work work C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module counter_tb
+
+Top level modules:
+	counter_tb
+
 } {} {}}
