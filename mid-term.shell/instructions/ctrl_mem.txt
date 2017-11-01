@@ -1,0 +1,2048 @@
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000010
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000010
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000010
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000010
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010111
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010001
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000001
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10010011
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01010100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+10000111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000010
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000110
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010110
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00010000
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10000110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010100
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+00000000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010111
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010011
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01010011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 0, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00000111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 2, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000000
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01010110
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00000001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 0, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00000010
+// Op code: 1, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10000101
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010101
+// Op code: 2, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10000100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000111
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+01000011
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+00010010
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+01000100
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Neighbor out FIFO
+10010000
+// Op code: 1, SRC0: Internal FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+01000001
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010101
+// Op code: 1, SRC0: Internal FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+01000110
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Bus FIFO, DST1: Neighbor out FIFO
+10010010
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+00010001
+// Op code: 0, SRC0: Neighbor in FIFO, SRC1: Neighbor in FIFO, DST0: Bus FIFO, DST1: Bus FIFO
+00010111
+// Op code: 2, SRC0: Neighbor in FIFO, SRC1: Internal FIFO, DST0: Neighbor out FIFO, DST1: Bus FIFO
+10010001

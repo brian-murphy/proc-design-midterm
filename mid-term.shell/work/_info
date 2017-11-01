@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Brian\dev\proc-design\hw1
+vcounter
+Z1 I7ZHfDiBfNjfb;_K^DLJ=43
+Z2 VV_EX]G0]zEBK1??IVSP^:1
+Z3 dC:\Users\Brian\dev\proc-design\midterm\mid-term.shell
+Z4 w1509554779
+Z5 8C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v
+Z6 FC:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v
+L0 2
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 PDiJkWAOG1n?=PcPV5nl]0
+!s85 0
+Z10 !s108 1509554799.190000
+Z11 !s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v|
+!s101 -O0
+vcounter_tb
+!i10b 1
+!s100 ;7TgnAzLhQ1G5ClPdmoc42
+IYU4@K:5k[5=oNFBCA60KO1
+Z13 VN6X[[7nWg]oz4[ZCKXDXe0
+R3
+w1509555069
+Z14 8C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v
+Z15 FC:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1509555106.190000
+!s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v|
+Z16 !s90 -reportprogress|300|-work|work|C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v|
+!s101 -O0
+R8
