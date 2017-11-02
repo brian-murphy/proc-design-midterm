@@ -1,4 +1,11 @@
-C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v {1 {vlog -work work C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v
+C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/alu_tb.v {1 {vlog -work work C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/alu_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_tb
+
+Top level modules:
+	alu_tb
+
+} {} {}} C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v {1 {vlog -work work C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module counter
 
@@ -11,5 +18,12 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 
 Top level modules:
 	counter_tb
+
+} {} {}} C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/alu.v {1 {vlog -work work C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/alu.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
 
 } {} {}}

@@ -177,6 +177,19 @@ module processor
 // your logic here ->
 // ******************************************************************
 
+reg [INST_WIDTH - 1 : 0] instruction;
+// instruction decoding
+assign wire [OPCODE_WIDTH - 1 : 0] op = instruction[INST_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH];
+assign wire [SRC0_IDX_WIDTH - 1 : 0] src0 = instruction[INST_WIDTH - OPCODE_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH];
+assign wire [SRC1_IDX_WIDTH - 1 : 0] src1 = instruction[INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH];
+assign wire [DST0_IDX_WIDTH - 1 : 0] dst0 = instruction[INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH - DST0_IDX_WIDTH];
+assign wire [DST1_IDX_WIDTH - 1 : 0] dst1 = instruction[INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH - DST0_IDX_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH - DST0_IDX_WIDTH - DST1_IDX_WIDTH];
+
+
+always @ (posedge clk) begin
+    
+
+end
 
 // ******************************************************************
 

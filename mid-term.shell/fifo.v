@@ -19,31 +19,29 @@ module fifo
 // your logic here ->
 // ******************************************************************
 
-reg [DATA_WIDTH - 1 : 0] data [ADDR_WIDTH - 1 : 0];
+reg [DATA_WIDTH - 1 : 0] data [0 : ADDR_WIDTH - 1];
 
-reg should_sample_data_in;
-reg [ADDR_WIDTH - 1 : 0] in_index;
 
 wire next_in_index;
-
 counter #(ADDR_WIDTH) next_in_counter(clk, reset, enq, next_in_index);
+
+wire next_out_index;
+counter #(ADDR_WIDTH) next_out_counter(clk, reset, deq, next_out_index);
+
 
 always @(posedge clk) begin 
 
     if (reset == 1'b1) begin
-        should_sample_data_in <= 0;
-        in_index <= 0;
-        empty = 1'b1;
+        empty <= 1'b1;
+        full <=1'b0;
+        data_out <= 0;
 
     end else begin
-        if (should_sample_data_in == 1'b1) begin
-            data[in_index] <= data_in;
-            ///TODO
-        if (enq == 1'b1) begin
-            should_sample_data_in <= 1'b1;
-            in_index <= next_in_index;
-        end else
-            should_sample_data_in <= 1'b0;
+        if (enq == 1'b1)
+            data[next_in_index] <= data_in;
+        
+        if (deq == 1'b1)
+            data_out <= data[next_out_index];
     end
 end
 
