@@ -5,6 +5,13 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	alu_tb
 
+} {} {}} C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo.v {1 {vlog -work work C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fifo
+
+Top level modules:
+	fifo
+
 } {} {}} C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v {1 {vlog -work work C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module counter

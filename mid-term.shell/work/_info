@@ -16,66 +16,104 @@ r1
 31
 Z8 !s90 -reportprogress|300|-work|work|C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/alu.v|
 Z9 o-work work -O0
-!i10b 1
 Z10 !s100 0jcB[YXCP^TgRGcACEcmB0
-!s85 0
 Z11 !s108 1509570959.922000
 Z12 !s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/alu.v|
+!i10b 1
+!s85 0
 !s101 -O0
 valu_tb
+Z13 IJFI0TJGCA^kmRgaZ5EBTE3
+Z14 VL;=kgzZ7GJ2Reg7Z1GkmR2
+R3
+Z15 w1509570947
+Z16 8C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/alu_tb.v
+Z17 FC:/Users/Brian/dev/proc-design/midterm/mid-term.shell/alu_tb.v
+L0 2
+R7
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/alu_tb.v|
+R9
+Z19 !s100 c1m9l3:aoPX0gJCiEE?hj1
+Z20 !s108 1509570959.997000
+Z21 !s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/alu_tb.v|
 !i10b 1
-!s100 c1m9l3:aoPX0gJCiEE?hj1
-IJFI0TJGCA^kmRgaZ5EBTE3
-Z13 VL;=kgzZ7GJ2Reg7Z1GkmR2
-R3
-w1509570947
-Z14 8C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/alu_tb.v
-Z15 FC:/Users/Brian/dev/proc-design/midterm/mid-term.shell/alu_tb.v
-L0 2
-R7
-r1
 !s85 0
-31
-!s108 1509570959.997000
-!s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/alu_tb.v|
-Z16 !s90 -reportprogress|300|-work|work|C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/alu_tb.v|
 !s101 -O0
-R9
 vcounter
-Z17 !s100 PDiJkWAOG1n?=PcPV5nl]0
-Z18 I7ZHfDiBfNjfb;_K^DLJ=43
-Z19 VV_EX]G0]zEBK1??IVSP^:1
+Z22 !s100 PDiJkWAOG1n?=PcPV5nl]0
+Z23 I7ZHfDiBfNjfb;_K^DLJ=43
+Z24 VV_EX]G0]zEBK1??IVSP^:1
 R3
-Z20 w1509554779
-Z21 8C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v
-Z22 FC:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v
+Z25 w1509554779
+Z26 8C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v
+Z27 FC:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v
 L0 2
 R7
 r1
 31
-Z23 !s90 -reportprogress|300|-work|work|C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v|
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v|
 R9
-Z24 !s108 1509570959.789000
-Z25 !s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v|
+Z29 !s108 1509570959.789000
+Z30 !s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vcounter_tb
-Z26 !s100 ;7TgnAzLhQ1G5ClPdmoc42
-Z27 IYU4@K:5k[5=oNFBCA60KO1
-Z28 VN6X[[7nWg]oz4[ZCKXDXe0
+Z31 !s100 ;7TgnAzLhQ1G5ClPdmoc42
+Z32 IYU4@K:5k[5=oNFBCA60KO1
+Z33 VN6X[[7nWg]oz4[ZCKXDXe0
 R3
-Z29 w1509555069
-Z30 8C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v
-Z31 FC:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v
+Z34 w1509555069
+Z35 8C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v
+Z36 FC:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v
 L0 2
 R7
 r1
 31
-Z32 !s90 -reportprogress|300|-work|work|C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v|
+Z37 !s90 -reportprogress|300|-work|work|C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v|
 R9
-Z33 !s108 1509570959.844000
-Z34 !s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v|
+Z38 !s108 1509570959.844000
+Z39 !s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v|
 !i10b 1
 !s85 0
 !s101 -O0
+vfifo
+Z40 IKoN[ogkLM8gONz9OO<i;@1
+Z41 Vj]>jVZP<ND:0bjhT>33132
+R3
+Z42 w1509677354
+Z43 8C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo.v
+Z44 FC:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo.v
+L0 2
+R7
+r1
+31
+Z45 !s90 -reportprogress|300|-work|work|C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo.v|
+R9
+Z46 !s100 C2^K?Bb128=1?JW;iIYfQ2
+Z47 !s108 1509677367.479000
+Z48 !s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfifo_tb
+!i10b 1
+!s100 iV3PXKE@N1ldAA]8E8Ocm0
+IGa0k=S540SUT1azAF;bEJ3
+Z49 VE6FzO6X^BSHbEP>3A9AN]2
+R3
+w1509678362
+Z50 8C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo_tb.v
+Z51 FC:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1509678380.483000
+!s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo_tb.v|
+Z52 !s90 -reportprogress|300|-work|work|C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo_tb.v|
+!s101 -O0
+R9
