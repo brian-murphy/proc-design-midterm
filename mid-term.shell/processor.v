@@ -177,18 +177,44 @@ module processor
 // your logic here ->
 // ******************************************************************
 
-reg [INST_WIDTH - 1 : 0] instruction;
+wire [SRC0_IDX_WIDTH - 1 : 0] src0;
+wire [SRC1_IDX_WIDTH - 1 : 0] src1;
+
 // instruction decoding
-assign wire [OPCODE_WIDTH - 1 : 0] op = instruction[INST_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH];
-assign wire [SRC0_IDX_WIDTH - 1 : 0] src0 = instruction[INST_WIDTH - OPCODE_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH];
-assign wire [SRC1_IDX_WIDTH - 1 : 0] src1 = instruction[INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH];
-assign wire [DST0_IDX_WIDTH - 1 : 0] dst0 = instruction[INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH - DST0_IDX_WIDTH];
-assign wire [DST1_IDX_WIDTH - 1 : 0] dst1 = instruction[INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH - DST0_IDX_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH - DST0_IDX_WIDTH - DST1_IDX_WIDTH];
+assign src0 = ctrl_fifo_data_out[INST_WIDTH - OPCODE_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH];
+assign src1 = ctrl_fifo_data_out[INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH];
+
+reg [OPCODE_WIDTH - 1 : 0] op;
+reg [DST0_IDX_WIDTH - 1 : 0] dst0;
+reg [DST1_IDX_WIDTH - 1 : 0] dst1;
 
 
-always @ (posedge clk) begin
-    
+assign ctrl_fifo_deq = ~ctrl_fifo_empty;
 
+reg should_write;
+
+
+assign nout_fifo_enq = should_write && (dst0 == 0 || dst1 == 0);
+assign nout_fifo_data_in = alu_out;
+
+assign bus_fifo_enq = should_write && (dst0 == 1 || dst1 == 1);
+assign bus_fifo_data_in = alu_out;
+
+assign alu_op0 = src0 == 0 ? int_fifo_data_out : nin_fifo_data_out;
+assign alu_op1 = src1 == 0 ? int_fifo_data_out : nin_fifo_data_out;
+
+assign int_fifo_deq = ~ctrl_fifo_empty && (src0 == 0 || src1 == 0);
+assign nin_fifo_deq = ~ctrl_fifo_empty && (src0 == 1 || src1 == 1);
+
+assign alu_op_code = op;
+
+
+always @(posedge clk) begin
+  op <= ctrl_fifo_data_out[INST_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH];
+  dst0 <= ctrl_fifo_data_out[INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH - DST0_IDX_WIDTH];
+  dst1 <= ctrl_fifo_data_out[INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH - DST0_IDX_WIDTH - 1 : INST_WIDTH - OPCODE_WIDTH - SRC0_IDX_WIDTH - SRC1_IDX_WIDTH - DST0_IDX_WIDTH - DST1_IDX_WIDTH];
+
+  should_write <= ctrl_fifo_deq;
 end
 
 // ******************************************************************

@@ -5,6 +5,13 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	alu_tb
 
+} {} {}} C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/processor.v {1 {vlog -work work C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/processor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module processor
+
+Top level modules:
+	processor
+
 } {} {}} C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo.v {1 {vlog -work work C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module fifo
@@ -18,6 +25,21 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 
 Top level modules:
 	counter
+
+} {} {}} C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/processor_tb.v {0 {vlog -work work C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/processor_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module processor_tb
+** Error: C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/processor_tb.v(179): near "+=": Operator only allowed in SystemVerilog.
+** Error: C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/processor_tb.v(184): near "+=": Operator only allowed in SystemVerilog.
+** Error: C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/processor_tb.v(210): near "+=": Operator only allowed in SystemVerilog.
+** Error: C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/processor_tb.v(215): near "+=": Operator only allowed in SystemVerilog.
+
+} {4.0 8.0} {}} C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo_tb.v {1 {vlog -work work C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fifo_tb
+
+Top level modules:
+	fifo_tb
 
 } {} {}} C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v {1 {vlog -work work C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/counter_tb.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012

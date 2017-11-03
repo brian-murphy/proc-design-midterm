@@ -99,21 +99,40 @@ Z48 !s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo.v|
 !s85 0
 !s101 -O0
 vfifo_tb
-!i10b 1
-!s100 iV3PXKE@N1ldAA]8E8Ocm0
-IGa0k=S540SUT1azAF;bEJ3
-Z49 VE6FzO6X^BSHbEP>3A9AN]2
+Z49 IGa0k=S540SUT1azAF;bEJ3
+Z50 VE6FzO6X^BSHbEP>3A9AN]2
 R3
-w1509678362
-Z50 8C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo_tb.v
-Z51 FC:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo_tb.v
+Z51 w1509678362
+Z52 8C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo_tb.v
+Z53 FC:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo_tb.v
+L0 2
+R7
+r1
+31
+Z54 !s90 -reportprogress|300|-work|work|C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo_tb.v|
+R9
+!i10b 1
+Z55 !s100 iV3PXKE@N1ldAA]8E8Ocm0
+!s85 0
+Z56 !s108 1509678380.483000
+Z57 !s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo_tb.v|
+!s101 -O0
+vprocessor
+!i10b 1
+!s100 Olk0dk^zMRf6^QOPmj^Vi2
+Im:nW]G=zCkF9b]gabO7L03
+V^H:bM>9YhJ@FV^6fd:i4`2
+R3
+w1509683372
+8C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/processor.v
+FC:/Users/Brian/dev/proc-design/midterm/mid-term.shell/processor.v
 L0 2
 R7
 r1
 !s85 0
 31
-!s108 1509678380.483000
-!s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo_tb.v|
-Z52 !s90 -reportprogress|300|-work|work|C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/fifo_tb.v|
+!s108 1509683394.891000
+!s107 C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/processor.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Brian/dev/proc-design/midterm/mid-term.shell/processor.v|
 !s101 -O0
 R9
